@@ -38,3 +38,11 @@ All devices in my Network:
 10. PC (Network 2)
     Model - PC
     IP address 210.3.14.4
+
+11. New PC (Network 1)
+    Model - PC
+    IP address 168.90.0.6
+
+12. New PC (Network 2)
+    Model - PC
+    IP address 210.3.14.5
